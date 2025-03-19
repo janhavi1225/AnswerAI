@@ -26,9 +26,8 @@ To run this chatbot locally, follow these steps:
 
 Clone the Repository
 
-git clone https://github.com/YourGitHubUsername/AnswerAI.git
+git clone https://github.com/your-username/AnswerAI.git
 cd AnswerAI
-
 Install Dependencies
 
 pip install -r requirements.txt
