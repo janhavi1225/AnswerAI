@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 Run the Code
 
-python chatbot.py
+python AnswerAI.py
 
 Usage
 
