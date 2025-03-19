@@ -27,7 +27,7 @@ To run this chatbot locally, follow these steps:
 Clone the Repository
 
 git clone https://github.com/YourGitHubUsername/AnswerAI.git
-cd chatbot-query-resolver
+cd AnswerAI
 
 Install Dependencies
 
